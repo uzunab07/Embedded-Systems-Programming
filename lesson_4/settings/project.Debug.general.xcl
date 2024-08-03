@@ -1,0 +1,15 @@
+"C:\tools\arm\bin\armPROC.dll" 
+
+"C:\tools\arm\bin\armLMIFTDI.dll" 
+
+"C:\Users\moham\OneDrive\Bureau\Embedded_Systems_programming\lesson_4\Debug\Exe\project.out" 
+
+--plugin="C:\tools\arm\bin\armLibSupportUniversal.dll" 
+
+--device_macro="C:\tools\arm/config/debugger/TexasInstruments/TM4C123.dmac" 
+
+--flash_loader="C:\tools\arm/config/flashloader/TexasInstruments/FlashTC4_H6_o.board" 
+
+
+
+

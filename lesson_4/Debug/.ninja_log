@@ -1,0 +1,19 @@
+# ninja log v5
+1	378	7444062999489929	C:/Users/moham/OneDrive/Bureau/Embedded_Systems_programming/lesson_4/Debug/Obj/main.o	d27139399d07c0be
+380	545	7444063001208660	C:/Users/moham/OneDrive/Bureau/Embedded_Systems_programming/lesson_4/Debug/Exe/project.out	ed4cd02088fc4d41
+2	185	7444077297746603	C:/Users/moham/OneDrive/Bureau/Embedded_Systems_programming/lesson_4/Debug/Obj/main.o	d27139399d07c0be
+187	245	7444077298421828	C:/Users/moham/OneDrive/Bureau/Embedded_Systems_programming/lesson_4/Debug/Exe/project.out	ed4cd02088fc4d41
+2	190	7444080721734529	C:/Users/moham/OneDrive/Bureau/Embedded_Systems_programming/lesson_4/Debug/Obj/main.o	d27139399d07c0be
+192	247	7444080722363152	C:/Users/moham/OneDrive/Bureau/Embedded_Systems_programming/lesson_4/Debug/Exe/project.out	ed4cd02088fc4d41
+1	93	7444081882015350	C:/Users/moham/OneDrive/Bureau/Embedded_Systems_programming/lesson_4/Debug/Obj/main.o	c1a8374b8b799152
+97	176	7444081882796306	C:/Users/moham/OneDrive/Bureau/Embedded_Systems_programming/lesson_4/Debug/Exe/project.out	f0dd4710311681b6
+2	219	7444087597678364	C:/Users/moham/OneDrive/Bureau/Embedded_Systems_programming/lesson_4/Debug/Obj/main.o	c1a8374b8b799152
+221	292	7444087598615625	C:/Users/moham/OneDrive/Bureau/Embedded_Systems_programming/lesson_4/Debug/Exe/project.out	f0dd4710311681b6
+2	69	7444088373894475	C:/Users/moham/OneDrive/Bureau/Embedded_Systems_programming/lesson_4/Debug/Obj/main.o	c1a8374b8b799152
+72	123	7444088374428216	C:/Users/moham/OneDrive/Bureau/Embedded_Systems_programming/lesson_4/Debug/Exe/project.out	f0dd4710311681b6
+2	196	7444090867414244	C:/Users/moham/OneDrive/Bureau/Embedded_Systems_programming/lesson_4/Debug/Obj/main.o	c1a8374b8b799152
+198	247	7444090868039039	C:/Users/moham/OneDrive/Bureau/Embedded_Systems_programming/lesson_4/Debug/Exe/project.out	f0dd4710311681b6
+2	82	7444091171196723	C:/Users/moham/OneDrive/Bureau/Embedded_Systems_programming/lesson_4/Debug/Obj/main.o	c1a8374b8b799152
+85	146	7444091171916731	C:/Users/moham/OneDrive/Bureau/Embedded_Systems_programming/lesson_4/Debug/Exe/project.out	f0dd4710311681b6
+2	75	7444091468222887	C:/Users/moham/OneDrive/Bureau/Embedded_Systems_programming/lesson_4/Debug/Obj/main.o	c1a8374b8b799152
+77	125	7444091468847762	C:/Users/moham/OneDrive/Bureau/Embedded_Systems_programming/lesson_4/Debug/Exe/project.out	f0dd4710311681b6
