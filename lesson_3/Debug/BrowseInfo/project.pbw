@@ -1,0 +1,86 @@
+[
+  {
+    "ID": "c:@F@delay",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void delay(void)",
+    "location": {
+      "column": "6",
+      "line": "1",
+      "path": "C:\\Users\\moham\\OneDrive\\Bureau\\Embedded_Systems_programming\\lesson_3\\main.c"
+    },
+    "name": "delay",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@22@F@delay@i",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "i",
+    "location": {
+      "column": "12",
+      "line": "2",
+      "path": "C:\\Users\\moham\\OneDrive\\Bureau\\Embedded_Systems_programming\\lesson_3\\main.c"
+    },
+    "name": "i",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@main",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int main(void)",
+    "location": {
+      "column": "7",
+      "line": "4",
+      "path": "C:\\Users\\moham\\OneDrive\\Bureau\\Embedded_Systems_programming\\lesson_3\\main.c"
+    },
+    "name": "main",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@141@F@main@PIN_DIR",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "PIN_DIR",
+    "location": {
+      "column": "17",
+      "line": "7",
+      "path": "C:\\Users\\moham\\OneDrive\\Bureau\\Embedded_Systems_programming\\lesson_3\\main.c"
+    },
+    "name": "PIN_DIR",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@534@F@main@PIN_FNC",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "PIN_FNC",
+    "location": {
+      "column": "17",
+      "line": "13",
+      "path": "C:\\Users\\moham\\OneDrive\\Bureau\\Embedded_Systems_programming\\lesson_3\\main.c"
+    },
+    "name": "PIN_FNC",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@654@F@main@LED_PIN",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "LED_PIN",
+    "location": {
+      "column": "17",
+      "line": "19",
+      "path": "C:\\Users\\moham\\OneDrive\\Bureau\\Embedded_Systems_programming\\lesson_3\\main.c"
+    },
+    "name": "LED_PIN",
+    "origin": "project_file",
+    "scope": null
+  }
+]
